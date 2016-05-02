@@ -1,0 +1,28 @@
+name: Meditation Teacher Training Notes
+favicon: null
+layout_spectrum: 0.6467343172989786
+typography_spectrum: 0.5727661575656384
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9308579515200108
+  lightness: 0.3320136268157512
+  saturation: 0.22930818307213485
+  rhythmicContrast: 0.25897946464829147
+purpose: []
